@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mangoman Nutrition and Fitness]]></title>
+        <description><![CDATA[Mangoman Nutrition and Fitness]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 01:10:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Preserving Athlete Immunity with Chlorella | NutritionFacts.org]]></title>
+            <description><![CDATA[<article><h1>Preserving Athlete Immunity with Chlorella | NutritionFacts.org</h1><p>The green algae, chlorella, may help attenuate the drop in immune function antibodies associated with over-strenuous exercise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/044be8ddb9e4bd16118318919728d3226cdc2dda.jpg"></article>]]></description>
+            <link>http://nutritionfacts.org/video/preserving-athlete-immunity-with-chlorella-2/</link>
+            <guid isPermaLink="false">1eb57738-0a81-4b42-93e7-b536f14bf153</guid>
+            <pubDate>Fri, 18 Dec 2015 01:10:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
