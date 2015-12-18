@@ -1,7 +1,7 @@
 name: Mangoman Nutrition and Fitness
 favicon: null
-layout_spectrum: 0.031228916253894567
-typography_spectrum: 0.4756598575040698
+layout_spectrum: 0.74487
+typography_spectrum: 0.74486
 title: Nutrition and Fitness for Insulin Resistance and Diabetes
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5058404998853803
-  lightness: 0.14333864417858422
-  saturation: 0.13349286373704672
-  rhythmicContrast: 0.19104000856168568
+    - '#942525'
+    - '#d39317'
+    - '#e1c4c4'
+    - '#ffffff'
+    - '#ffff00'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
